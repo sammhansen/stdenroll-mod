@@ -1,4 +1,4 @@
-    # A model that can predict which students are likely to enroll in a particular program and which ones may need additional support to graduate
+# A model that can predict which students are likely to enroll in a particular program and which ones may need additional support to graduate
 
 ![image](https://github.com/user-attachments/assets/64affd7e-008e-49eb-8e98-14137c6bf7f6)
 
